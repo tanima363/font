@@ -1,0 +1,84 @@
+SplineFontDB: 3.2
+FontName: Untitled3
+FullName: Untitled3
+FamilyName: Untitled3
+Weight: Regular
+Copyright: Copyright (c) 2021, ASUS
+UComments: "2021-2-17: Created with FontForge (http://fontforge.org)"
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 800
+Descent: 200
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+XUID: [1021 486 1316481299 4307]
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1613569666
+ModificationTime: 1613570394
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 0
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+DEI: 91125
+Encoding: UnicodeBmp
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 19 19 13
+BeginChars: 65536 1
+
+StartChar: uni00B9
+Encoding: 185 185 0
+Width: 1000
+Flags: HO
+LayerCount: 2
+Fore
+SplineSet
+518 492 m 29
+ 562 464 l 25
+ 564 444 l 25
+ 576 408 l 25
+ 538 392 l 25
+ 498 428 l 25
+ 520 450 l 25
+ 504 474 l 25
+ 484 480 l 25
+ 476 520 l 25
+ 518 492 l 29
+428 456 m 25
+ 340 356 l 25
+ 432 298 l 25
+ 428 456 l 25
+238 322 m 25
+ 238 322 480 564.777358491 474 557.388679245 c 0
+ 472.417529757 555.439951739 474.866391907 490.000002064 474.866391907 490.000002064 c 1
+ 474.866391907 490.000002064 494 184 494 184 c 9
+ 238 322 l 25
+212 668 m 1
+ 776 652 l 25
+ 766 564 l 17
+ 474 557.388679245 l 0
+ 236 552 l 9
+ 212 668 l 1
+EndSplineSet
+EndChar
+EndChars
+EndSplineFont
